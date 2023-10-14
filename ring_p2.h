@@ -1,7 +1,6 @@
 #ifndef __RING_BUF_H
 #	define __RING_BUF_H
 
-include <algorithm>
 #include <climits>
 
 namespace jaxos::data_struct
