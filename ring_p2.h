@@ -118,7 +118,7 @@ namespace jaxos::data_struct
 
 /*
 Example program:
-https://godbolt.org/z/bfWcMrxGz
+https://godbolt.org/z/W43c9zqfh
 
 int main(int argc, char** argv)
 {
